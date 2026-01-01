@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Welcome"
+echo $1
